@@ -28,13 +28,14 @@
 |  |[Matrix Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo)| [Python](./Algorithms/Implementation/Matrix%20Layer%20Rotation/Solution.py) | _O(n*m)_ | _O(n*m)_ | Hard | 80| ||
 |  |[Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2)| [Python](./Algorithms/Implementation/Queen's%20Attack%20II/Solution.py) | _O(k)_ | _O(1)_ | Medium | 30| ||
 |  |[Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation)| [Python](./Algorithms/Implementation/Circular%20Array%20Rotation/Solution.py) | _O(n)_ | _O(1)_ | Easy | 20| ||
-|  |[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first)| [Python](./Algorithms/Warmup/Solve%20Me%20First/Solution.py) | _O(1)_ | _O(1)_| Easy | 1 | ||
+|  |[Time Conversion](https://www.hackerrank.com/challenges/time-conversion)| [Python](./Algorithms/Warmup/Time%20Conversion/Solution.py) | _O(1)_ | _O(1)_ | Easy | 15 | ||
 |  |[Plus Minus](https://www.hackerrank.com/challenges/plus-minus)| [Python](./Algorithms/Warmup/Plus%20Minus/Solution.py) | _O(n)_ | _O(1)_ | Easy | 10 | ||
 |  |[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum)| [Python](./Algorithms/Warmup/A%20Very%20Big%20Sum/Solution.py) | _O(n)_ | _O(1)_ | Easy | 10 | ||
 |  |[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)| [Python](./Algorithms/Warmup/Simple%20Array%20Sum/Solution.py) | _O(n)_ | _O(1)_ | Easy | 10 | ||
 |  |[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)| [Python](./Algorithms/Warmup/Compare%20the%20Triplets/Solution.py) | _O(1)_ | _O(1)_ | Easy | 10 | ||
 |  |[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)| [Python](./Algorithms/Warmup/Birthday%20Cake%20Candles/Solution.py) | _O(n)_ | _O(1)_ | Easy | 10 | ||
-|  |[Time Conversion](https://www.hackerrank.com/challenges/time-conversion)| [Python](./Algorithms/Warmup/Time%20Conversion/Solution.py) | _O(1)_ | _O(1)_ | Easy | 15 | ||
+|  |[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first)| [Python](./Algorithms/Warmup/Solve%20Me%20First/Solution.py) | _O(1)_ | _O(1)_| Easy | 1 | ||
+
 
 
 
